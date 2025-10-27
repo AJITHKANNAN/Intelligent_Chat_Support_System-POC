@@ -1,0 +1,5 @@
+ICSS_RAG_setup.egg-info/
+build/
+logs/
+Testing_folder/
+.env

@@ -1,0 +1,14 @@
+[
+  {
+    "query": "My order hasn't arrived and it's been 5 days",
+    "human_response": "I apologize for the delay with your order. Let me track that for you right away. I can see your order is currently with our shipping partner and should arrive within the next 24 hours. I'll also apply a $10 credit to your account for the inconvenience.",
+    "llm_response_1": "I understand your concern about the delayed delivery. Please provide your order number so I can track its current status and provide you with an accurate update.",
+    "llm_response_2": "Sorry for the delay! Your package might be stuck in transit. Here's what we can do: 1) Track your order, 2) Contact shipping partner, 3) Provide compensation if needed. Can you share your order number?"
+  },
+  {
+    "query": "I want to return this jacket, it doesn't fit",
+    "human_response": "I'd be happy to help you with that return. Since clothing items can be returned within 30 days, you're well within our return window. I'll email you a prepaid return label, and once we receive the item, we'll process your refund within 3-5 business days.",
+    "llm_response_1": "No problem! Our return policy allows 30 days for clothing returns. I can generate a return label for you - would you prefer a refund or exchange for a different size?",
+    "llm_response_2": "Returns are easy! Just pack the jacket in its original packaging, use our prepaid label, and drop it off at any authorized location. Refund typically takes 5-7 days."
+  }
+]
